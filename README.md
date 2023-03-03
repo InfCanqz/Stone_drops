@@ -8,7 +8,6 @@
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
-
 ## Features
     - Menu with all information and settings (GUI)
     - Language support (lang.yml).
@@ -37,6 +36,7 @@
     - /cancelshutdown	op/console-only command. Cancels shut down if it's been initialized.
     
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+
 
 ## Discord
 <div align="center">
