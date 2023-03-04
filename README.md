@@ -1,8 +1,8 @@
 <div align="center">
   <img  src="https://raw.githubusercontent.com/ULTUX/StoneDropPlugin/master/.github/banner.png">
   <br>
-  <img  src="https://img.shields.io/github/stars/InfCanqz/Stone_drops?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/stars/hackerman2345/Updated-HACK-FOR-Valorant-Radar-Aimbot-ESP-COLORS?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/last-commit/InfCanqz/Stone_drops?color=6d00c1&logoColor=6d00c1">
   <img src="https://camo.githubusercontent.com/ca0098df44612384bf1e3e85c7c5e6e0328b972d14196a0d191ce51002554b3d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f554c5455582f53746f6e6544726f70506c7567696e" alt="">
   <br>
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
