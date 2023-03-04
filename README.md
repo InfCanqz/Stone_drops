@@ -37,6 +37,13 @@
     
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 
+## How to install
+    - Download plugin from here.
+    - Place the file in plugins folder inside your server directory.
+    - Start the server (if it was already running reload it with /reload command).
+    - You have successfully downloaded and installed the plugin!
+    
+<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 
 ## Discord
 <div align="center">
